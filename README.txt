@@ -6,8 +6,8 @@
 -----------------------------
 -----------------------------
 --- General-Information -----
-This program aim is to visualize the diversity patterns across the heavy-chain vairable region of the BCR's datasets 
-originated from the ImmuneDB tables. 
+This program's aim is to visualize the diversity patterns across the heavy-chain variable region 
+of BCR datasets originating from ImmuneDB tables.
 -----------------------------
 -----------------------------
 -----------------------------
@@ -18,8 +18,6 @@ originated from the ImmuneDB tables.
 3.  scipy 
 4.  pandas 
 5.  numpy 
-6.  math
-7.  os
 -----------------------------
 -----------------------------
 -----------------------------
