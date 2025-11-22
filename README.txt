@@ -6,7 +6,7 @@
 -----------------------------
 -----------------------------
 --- General-Information -----
-This program's aim is to visualize the diversity patterns across the heavy-chain variable region 
+This program's aim is to visualize the diversity patterns across the BCR heavy-chain variable region 
 of BCR datasets originating from ImmuneDB tables.
 -----------------------------
 -----------------------------
